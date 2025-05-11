@@ -12,4 +12,4 @@ Utilizar los conocimientos adquiridos
 - Uso de displau flex y sus propiedades
 
 ## Autor
-Desarrollado con :heart: por José Catalán
+Desarrollado con :heart: por José Catalán Solis
